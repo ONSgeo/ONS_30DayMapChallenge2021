@@ -203,7 +203,7 @@ _________________
 
 Data sources: Software used: [d3js](d3js.org). Tweet available [here](https://twitter.com/ONSgeography/status/1463809693629833219).
 
-![Day 25 - Interactive map](https://onsvisual.github.io/census-atlas/#/QS119EW005///11,-1.52656,55.02690)
+[Day 25 - Interactive map](https://onsvisual.github.io/census-atlas/#/QS119EW005///11,-1.52656,55.02690)
 
 _________________
 
@@ -241,4 +241,6 @@ _________________
 
 ## Day 30 | Metamapping day
 
-![Day 30 - Metamapping day]()
+Data sources: This repo. Tweet available [here]()
+
+![Day 30 - Metamapping day](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/README.md)
