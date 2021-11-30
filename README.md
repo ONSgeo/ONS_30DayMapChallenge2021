@@ -86,14 +86,6 @@ Data sources: [Semi-natural habitat natural capital accounts, UK: 2021](https://
 
 _________________
 
-## Day 11 | 3D
-
-Data sources: [](), [](). Software used: [QGIS](https://qgis.org). Tweet available [here]().
-
-![Day 11 - 3D]()
-
-_________________
-
 ## Day 12 | Population
 
 Data sources: [](), [Middle Super Output Area population estimates](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/middlesuperoutputareamidyearpopulationestimates). Software used: [QGIS](https://qgis.org). Tweet available [here](https://twitter.com/ONSgeography/status/1459098652941578241).
@@ -107,14 +99,6 @@ _________________
 Data sources: [Natural Earth](https://www.naturalearthdata.com/downloads/), [Production of manufactured goods](https://ec.europa.eu/eurostat/web/prodcom/overview). Software used: [Illustrator](https://www.adobe.com/it/products/illustrator.html). Tweet available [here](https://twitter.com/ONSgeography/status/1459521439439237121).
 
 ![Day 13 - Natural Earth](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/13_EU_Largest_Product_Sold_In_The_Manufacturing_Of_Beverages_Final_exp_Twitter_dimensions.png)
-
-_________________
-
-## Day 14 | Map with a new tool
-
-Data sources: [](), [](). Software used: [QGIS](https://qgis.org). Tweet available [here]().
-
-![Day 14 - Map with a new tool]()
 
 _________________
 
@@ -167,14 +151,6 @@ Data sources: Software used: [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/late
 
 _________________
 
-## Day 21 | Elevation
-
-Data sources: [](), [](). Software used: [QGIS](https://qgis.org). Tweet available [here]().
-
-![Day 21 - Elevation]()
-
-_________________
-
 ## Day 22 | Boundaries
 
 Data sources: [Census boundaries](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_CEN)), [Local Authority Districts](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2020)), [Population Estimates](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datalist?filter=datasets). Software used: [QGIS](https://qgis.org). Tweet available [here](https://twitter.com/ONSgeography/status/1462723871795204101).
@@ -220,22 +196,6 @@ _________________
 Data sources: [](), [LSOA boundaries](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LSOA%2CDEC_2011)). Software used: [R](https://www.r-project.org/). Tweet available [here](https://twitter.com/ONSgeography/status/1464534472594964485).
 
 ![Day 27 - Heatmap](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/27_urban_cooling_london.PNG)
-
-_________________
-
-## Day 28 | The Earth is not flat
-
-Data sources: [](), [](). Software used: [R](https://www.r-project.org/). Tweet available [here]().
-
-![Day 28 - The Earth is not flat]()
-
-_________________
-
-## Day 29 | NULL
-
-Data sources: [](), [](). Software used: [QGIS](https://qgis.org). Tweet available [here]().
-
-![Day 29 - NULL]()
 
 _________________
 
