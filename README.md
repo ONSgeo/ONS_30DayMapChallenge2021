@@ -48,7 +48,7 @@ _________________
 
 ## Day 6 | Red
 
-Data sources: [](), [English indices of deprivation 2019](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019). Software used: [QGIS](https://qgis.org). Tweet available [here](https://twitter.com/ONSgeography/status/1456924318835818503).
+Data sources: [English indices of deprivation 2019](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019). Software used: [QGIS](https://qgis.org). Tweet available [here](https://twitter.com/ONSgeography/status/1456924318835818503).
 
 ![Day 6 - Red](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/06_IMD_good___red_map.png)
 
@@ -72,7 +72,7 @@ _________________
 
 ## Day 9 | Monochrome
 
-Data sources: [Atlas of Democratic Variation](). Software used: [Illustrator](https://www.adobe.com/it/products/illustrator.html). Tweet available [here](https://twitter.com/ONSgeography/status/1458011480926924806).
+Data sources: [Atlas of Democratic Variation](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/773336/AtlasOfDemocraticVariation.pdf). Software used: [Illustrator](https://www.adobe.com/it/products/illustrator.html). Tweet available [here](https://twitter.com/ONSgeography/status/1458011480926924806).
 
 ![Day 9 - Monochrome](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/09_ElecRegisters_ProxyInd_Scotland_monochrome_final.png)
 
@@ -88,7 +88,7 @@ _________________
 
 ## Day 12 | Population
 
-Data sources: [](), [Middle Super Output Area population estimates](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/middlesuperoutputareamidyearpopulationestimates). Software used: [QGIS](https://qgis.org). Tweet available [here](https://twitter.com/ONSgeography/status/1459098652941578241).
+Data sources: [Middle Super Output Area population estimates](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/middlesuperoutputareamidyearpopulationestimates). Software used: [QGIS](https://qgis.org). Tweet available [here](https://twitter.com/ONSgeography/status/1459098652941578241).
 
 ![Day 12 - Population](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/12_colour_accessibility_population.png)
 
@@ -104,7 +104,7 @@ _________________
 
 ## Day 15 | Map made without using a computer
 
-Data sources: [](), [Skittles](). Medium used: [Skittles](https://mars-itr.com/our-brands/skittles). Tweet available [https://twitter.com/ONSgeography/status/1460185819482832899](https://twitter.com/ONSgeography/status/1460185819482832899).
+Data sources: Skittles. Medium used: [Skittles](https://mars-itr.com/our-brands/skittles). Tweet available [https://twitter.com/ONSgeography/status/1460185819482832899](https://twitter.com/ONSgeography/status/1460185819482832899).
 
 ![Day 15 - Map made without using a computer](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/15_Skittle_map_gb.png)
 
@@ -112,7 +112,7 @@ _________________
 
 ## Day 16 | Urban/rural
 
-Data sources: [](), [2011 Rural Urban Classification](https://www.gov.uk/government/statistics/2011-rural-urban-classification). Software used: [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). Tweet available [here](https://twitter.com/ONSgeography).
+Data sources: [2011 Rural Urban Classification](https://www.gov.uk/government/statistics/2011-rural-urban-classification). Software used: [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). Tweet available [here](https://twitter.com/ONSgeography).
 
 ![Day 16 - Urban/rural](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/16_RUC_2012_Y_and_H_Region.png)
 
@@ -169,7 +169,7 @@ _________________
 
 ## Day 24 | Historical map	
 
-Data sources: Software used: [ArcGIS arcmap](https://learn.arcgis.com/en/projects/get-started-with-arcmap/). Tweet available [here](https://twitter.com/ONSgeography).
+Software used: [ArcGIS arcmap](https://learn.arcgis.com/en/projects/get-started-with-arcmap/). Tweet available [here](https://twitter.com/ONSgeography).
 
 ![Day 24 - Historical map](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/24_District_boundary_history.png)
 
@@ -177,7 +177,7 @@ _________________
 
 ## Day 25 | Interactive map	
 
-Data sources: Software used: [d3js](d3js.org). Tweet available [here](https://twitter.com/ONSgeography/status/1463809693629833219).
+Software used: [d3js](http://d3js.org). Tweet available [here](https://twitter.com/ONSgeography/status/1463809693629833219).
 
 [Day 25 - Interactive map](https://onsvisual.github.io/census-atlas/#/QS119EW005///11,-1.52656,55.02690)
 
@@ -193,14 +193,6 @@ _________________
 
 ## Day 27 | Heatmap
 
-Data sources: [](), [LSOA boundaries](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LSOA%2CDEC_2011)). Software used: [R](https://www.r-project.org/). Tweet available [here](https://twitter.com/ONSgeography/status/1464534472594964485).
+Data sources: [LSOA boundaries](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LSOA%2CDEC_2011)). Software used: [R](https://www.r-project.org/). Tweet available [here](https://twitter.com/ONSgeography/status/1464534472594964485).
 
 ![Day 27 - Heatmap](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/27_urban_cooling_london.PNG)
-
-_________________
-
-## Day 30 | Metamapping day
-
-Data sources: This repo. Tweet available [here]()
-
-![Day 30 - Metamapping day](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/README.md)
