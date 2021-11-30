@@ -128,41 +128,42 @@ _________________
 
 ## Day 16 | Urban/rural
 
-Data sources: [](), [](). Software used: [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). Tweet available [here]().
+Data sources: [](), [2011 Rural Urban Classification](https://www.gov.uk/government/statistics/2011-rural-urban-classification). Software used: [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). Tweet available [here](https://twitter.com/ONSgeography).
 
-![Day 16 - Urban/rural]()
+![Day 16 - Urban/rural](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/16_RUC_2012_Y_and_H_Region.png)
 
 _________________
 
 ## Day 17 | Land
 
-Data sources: [](), [](). Software used: [Illustrator](https://www.adobe.com/it/products/illustrator.html). Tweet available [here]().
+Data sources: [Local Authority Districts](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2020)),[Standard Area Measurement](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(PRD_SAM)). Software used: [QGIS](https://qgis.org). Tweet available [here](https://twitter.com/ONSgeography/status/1460910587051921412).
 
-![Day 17 - Land]()
+![Day 17 - Land (i)](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/17_land_tweet1.png)
+![Day 17 - Land (ii)](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/17_land_tweet2.png)
 
 _________________
 
 ## Day 18 | Water
 
-Data sources: [](), [](). Software used: [QGIS](https://qgis.org). Tweet available [here]().
+Data sources: [LSOA Population Weighted Centroids](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(CTD_LSOA)), [LSOA boundaries](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LSOA%2CDEC_2011)),[Severn Trent Water Catchment areas](https://www.stwater.co.uk/). Software used: [QGIS](https://qgis.org). Tweet available [here](https://twitter.com/ONSgeography/status/1461272974351220736).
 
-![Day 18 - Water]()
+![Day 18 - Water](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/18_leicester_wastewater_covid_sampling.png)
 
 _________________
 
 ## Day 19 | Island(s)
 
-Data sources: [](), [](). Software used: [QGIS](https://qgis.org). Tweet available [here]().
+Data sources: [MSOA boundaries](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_MSOA%2CDEC_2011)). Software used: [QGIS](https://qgis.org). Tweet available [here](https://twitter.com/ONSgeography/status/1461643267896918019).
 
-![Day 19 - Island(s)]()
+![Day 19 - Island(s)](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/19_MSOA_IOW_f.png)
 
 _________________
 
 ## Day 20 | Movement
 
-Data sources: [](), [](). Software used: [QGIS](https://qgis.org). Tweet available [here]().
+Data sources: Software used: [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). Tweet available [here](https://twitter.com/ONSgeography/status/1461997747255398403).
 
-![Day 20 - Movement]()
+![Day 20 - Movement](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/20_ONS_travel_time.png)
 
 _________________
 
@@ -176,49 +177,49 @@ _________________
 
 ## Day 22 | Boundaries
 
-Data sources: [](), [](). Software used: [QGIS](https://qgis.org). Tweet available [here]().
+Data sources: [Census boundaries](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_CEN)), [Local Authority Districts](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2020)), [Population Estimates](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datalist?filter=datasets). Software used: [QGIS](https://qgis.org). Tweet available [here](https://twitter.com/ONSgeography/status/1462723871795204101).
 
-![Day 22 - Boundaries]()
+![Day 22 - Boundaries](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/22_statistical_geography_hierarchy_population.png)
 
 _________________
 
 ## Day 23 | GHSL Global Human Settlement Layer
 
-Data sources: [](), [](). Software used: [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). Tweet available [here]().
+Data sources: [GHSL](https://ghsl.jrc.ec.europa.eu/download.php), [SDG 9.1.1 repo](https://github.com/ONSgeo/SDG.9.1.1). Software used: [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). Tweet available [here](https://twitter.com/ONSgeography/status/1463084913452720128).
 
-![Day 23 - GHSL Global Human Settlement Layer]()
+![Day 23 - GHSL Global Human Settlement Layer](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/23_SDG_9_1_1_GHS_layer.png)
 
 _________________
 
 ## Day 24 | Historical map	
 
-Data sources: [](), [](). Software used: [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). Tweet available [here]().
+Data sources: Software used: [ArcGIS arcmap](https://learn.arcgis.com/en/projects/get-started-with-arcmap/). Tweet available [here](https://twitter.com/ONSgeography).
 
-![Day 24 - Historical map]()
+![Day 24 - Historical map](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/24_District_boundary_history.png)
 
 _________________
 
 ## Day 25 | Interactive map	
 
-Data sources: [](), [](). Software used: [d3js](d3js.org). Tweet available [here]().
+Data sources: Software used: [d3js](d3js.org). Tweet available [here](https://twitter.com/ONSgeography/status/1463809693629833219).
 
-![Day 25 - Interactive map]()
+![Day 25 - Interactive map](https://onsvisual.github.io/census-atlas/#/QS119EW005///11,-1.52656,55.02690)
 
 _________________
 
 ## Day 26 | Choropleth map
 
-Data sources: [](), [](). Software used: [Illustrator](https://www.adobe.com/it/products/illustrator.html). Tweet available [here]().
+Data sources: [Local Authority Districts](https://geoportal.statistics.gov.uk/datasets/local-authority-districts-december-2019-boundaries-uk-bgc/explore?location=55.340000%2C-3.316950%2C6.53), [Loneliness rates and wellbeing indicators](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/datasets/lonelinessratesandwellbeingindicatorsbylocalauthority). Software used: [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). Tweet available [here](https://twitter.com/ONSgeography/status/1464172082841808901).
 
-![Day 26 - Choropleth map]()
+![Day 26 - Choropleth map](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/26_life_satisfaction_choropleth_map.png)
 
 _________________
 
 ## Day 27 | Heatmap
 
-Data sources: [](), [](). Software used: [QGIS](https://qgis.org). Tweet available [here]().
+Data sources: [](), [LSOA boundaries](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LSOA%2CDEC_2011)). Software used: [R](https://www.r-project.org/). Tweet available [here](https://twitter.com/ONSgeography/status/1464534472594964485).
 
-![Day 27 - Heatmap]()
+![Day 27 - Heatmap](https://github.com/ONSgeo/ONS_30DayMapChallenge/blob/main/maps/27_urban_cooling_london.PNG)
 
 _________________
 
